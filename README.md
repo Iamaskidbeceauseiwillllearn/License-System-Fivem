@@ -12,9 +12,15 @@ step 1: You download the MS_License file and open the Check.php file and enter y
 Step 2: Then you create a database with the name of your choice, but because you also entered it in Check.php at the same time, and add the MS.sql file in your database.
 ![Schritt2](https://user-images.githubusercontent.com/102701262/170688564-36f30596-8902-40ca-a646-1d1a975d048d.png)
 
-If it worked, this window should appear: ![Erfolg](https://user-images.githubusercontent.com/102701262/170688606-86aaf722-4f7e-4b45-a257-6dc121ce3558.png)
-The database should then look like this: ![Erfolg2](https://user-images.githubusercontent.com/102701262/170688678-a3932ff8-5a3a-4865-95cf-e0c1c5eb3330.png)
+If it worked, this window should appear: 
+![Erfolg](https://user-images.githubusercontent.com/102701262/170688606-86aaf722-4f7e-4b45-a257-6dc121ce3558.png)
+
+The database should then look like this: 
+
+![Erfolg2](https://user-images.githubusercontent.com/102701262/170688678-a3932ff8-5a3a-4865-95cf-e0c1c5eb3330.png)
+
 ![erfolg3](https://user-images.githubusercontent.com/102701262/170688732-c5b7ab55-80f0-44ed-9d24-a5b43f02b7fc.png)
+
 If it all looks like this for you, as for me, you have successfully set up the database.
 
 Step 3: Then you open the htdocs folder and add the two php files there. You will find the folder in your Xampp installation directory.
